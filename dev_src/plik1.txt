@@ -3,3 +3,4 @@ i cos pomiedzy liniami
 no i druga linia!!!
 =====
 nowa wersja
+1.
