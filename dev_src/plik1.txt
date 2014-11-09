@@ -2,7 +2,8 @@ hello world!!!
 i cos pomiedzy liniami
 no i druga linia!!!
 nowa wersja
-HOT_FIX
+HOT_FIX 1
 1.
 2.
 3.
+hot_fix 2
